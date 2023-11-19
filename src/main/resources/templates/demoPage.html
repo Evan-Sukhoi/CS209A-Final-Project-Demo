@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Page for CS209A final project</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts-wordcloud@2/dist/echarts-wordcloud.js"></script>
+    <script src="../static/js/tagCount_demo.js"></script>
+</head>
+<body style="text-align: center">
+
+<h1>
+    Demo Page for CS209A final project
+</h1>
+
+<h5>
+    The data below is from 50 Java threads in StackOverflow,
+    which are the top 50 ones with the most activity on Nov. 19, 2023.
+    <br>
+    This is just a demo. Please design your own UI if needed.
+</h5>
+
+
+<div style="width: 100%;height: 60vh;display: flex">
+    <div style="width: 50%;height: 100%">
+        <div id="wordcloud" style="height: 100%;width: 100%"></div>
+    </div>
+    <div style="width: 50%;height: 100%">
+        <div id="barchart" style="height: 100%;width: 100%"></div>
+    </div>
+</div>
+</body>
+
+<script>
+    let wordcloud = echarts.init(document.getElementById('wordcloud'));
+    let barchart = echarts.init(document.getElementById('barchart'));
+
+    let wordcloudData = [];
+    for (const [key, value] of Object.entries(tagCountMap)) {
+        if (value > 1){
+            wordcloudData.push({
+                name: key,
+                value: value * 1000
+            })
+        } else if (wordcloudData.length < 20){
+            wordcloudData.push({
+                name: key,
+                value: value * 1000
+            })
+        }
+    }
+    let wordcloudOption = {
+        title: {
+            text: 'Related Tag WordCloud',
+            textStyle: {
+                fontStyle: 'oblique',
+                fontSize: 20,
+                color: '#4cc9f0'
+            },
+            left: 'center'
+        },
+        tooltip: {},
+        series: [{
+            type: 'wordCloud',
+            shape: {
+                cloudGrow: 0.2
+            },
+            sizeRange: [10, 60],
+            rotationRange: [-30, 30],
+            gridSize: 2,
+            drawOutOfBound: false,
+            layoutAnimation: true,
+            keepAspect: true,
+            textStyle: {
+                fontWeight: 'bold',
+                color: function () {
+                    return 'rgb(' + [
+                        Math.round(Math.random() * 160),
+                        Math.round(Math.random() * 160),
+                        Math.round(Math.random() * 160)
+                    ].join(',') + ')';
+                }
+            },
+            emphasis: {
+                textStyle: {
+                    shadowBlur: 15,
+                    shadowColor: '#333'
+                }
+            },
+            data: wordcloudData.sort(function (a, b) {
+                return b.value - a.value;
+            })
+        }]
+    };
+    wordcloud.setOption(wordcloudOption);
+
+    let barData = [];
+    let top5 = Object.entries(tagCountMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
+    for (const [key, value] of top5) {
+        barData.push({
+            name: key,
+            value: value / Object.keys(tagCountMap).length
+        })
+    }
+    option = {
+        dataset: [
+            {
+                dimensions: ['name', 'value'],
+                source: barData
+            },
+            {
+                transform: {
+                    type: 'sort',
+                    config: { dimension: 'value', order: 'desc' }
+                }
+            }
+        ],
+        xAxis: {
+            type: 'category',
+            axisLabel: { interval: 0, rotate: 30 }
+        },
+        yAxis: {},
+        series: {
+            type: 'bar',
+            encode: { x: 'name', y: 'score' },
+            datasetIndex: 1
+        }
+    };
+
+    option && barchart.setOption(option);
+</script>
+
+</html>
