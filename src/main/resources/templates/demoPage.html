@@ -5,57 +5,57 @@
     <title>Demo Page for CS209A final project</title>
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/echarts-wordcloud@2/dist/echarts-wordcloud.js"></script>
-    <script src="../static/js/tagCount_demo.js"></script>
+    <script src="../js/tagCount_demo.js"></script> <!-- In SpringBoot, the path is relative to the static folder -->
 </head>
 <body style="text-align: center">
 
 <h1>
-    Demo Page for CS209A final project
+    Demo Page for CS209A 2023 Fall final project
 </h1>
 
 <h5>
     The data below is from 50 Java threads in StackOverflow,
     which are the top 50 ones with the most activity on Nov. 19, 2023.
     <br>
-    This is just a demo. Please design your own UI if needed.
+    This is just a demo. Please collect data and design UI by yourself.
 </h5>
 
 
 <div style="width: 100%;height: 60vh;display: flex">
     <div style="width: 50%;height: 100%">
-        <div id="wordcloud" style="height: 100%;width: 100%"></div>
+        <div id="barchart" style="height: 100%;width: 100%"></div>
     </div>
     <div style="width: 50%;height: 100%">
-        <div id="barchart" style="height: 100%;width: 100%"></div>
+        <div id="wordCloud" style="height: 100%;width: 100%"></div>
     </div>
 </div>
 </body>
 
 <script>
-    let wordcloud = echarts.init(document.getElementById('wordcloud'));
+    let wordCloud = echarts.init(document.getElementById('wordCloud'));
     let barchart = echarts.init(document.getElementById('barchart'));
 
-    let wordcloudData = [];
+    let wordCloudData = [];
     for (const [key, value] of Object.entries(tagCountMap)) {
         if (value > 1){
-            wordcloudData.push({
+            wordCloudData.push({
                 name: key,
                 value: value * 1000
             })
-        } else if (wordcloudData.length < 20){
-            wordcloudData.push({
+        } else if (wordCloudData.length < 20){
+            wordCloudData.push({
                 name: key,
                 value: value * 1000
             })
         }
     }
-    let wordcloudOption = {
+    let wordCloudOption = {
         title: {
-            text: 'Related Tag WordCloud',
+            text: 'Tags in Java thread',
             textStyle: {
                 fontStyle: 'oblique',
                 fontSize: 20,
-                color: '#4cc9f0'
+                color: '#000000'
             },
             left: 'center'
         },
@@ -75,9 +75,9 @@
                 fontWeight: 'bold',
                 color: function () {
                     return 'rgb(' + [
-                        Math.round(Math.random() * 160),
-                        Math.round(Math.random() * 160),
-                        Math.round(Math.random() * 160)
+                        72 + Math.round(Math.random() * 128),
+                        72 + Math.round(Math.random() * 128),
+                        72 + Math.round(Math.random() * 128)
                     ].join(',') + ')';
                 }
             },
@@ -87,22 +87,25 @@
                     shadowColor: '#333'
                 }
             },
-            data: wordcloudData.sort(function (a, b) {
+            data: wordCloudData.sort(function (a, b) {
                 return b.value - a.value;
             })
         }]
     };
-    wordcloud.setOption(wordcloudOption);
+    wordCloud.setOption(wordCloudOption);
 
     let barData = [];
+    let colors = ['#FF7F27', '#FFC90E', '#28D15A', '#0BBDFC', '#8365FA'];
     let top5 = Object.entries(tagCountMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
     for (const [key, value] of top5) {
         barData.push({
             name: key,
-            value: value / Object.keys(tagCountMap).length
+            value: value / Object.keys(tagCountMap).length,
+            color: colors[barData.length % colors.length]
         })
     }
-    option = {
+
+    let barchartOption = {
         dataset: [
             {
                 dimensions: ['name', 'value'],
@@ -115,6 +118,15 @@
                 }
             }
         ],
+        title: {
+            text: 'Top 5 tags\' frequency in Java thread',
+            textStyle: {
+                fontStyle: 'oblique',
+                fontSize: 20,
+                color: '#000000'
+            },
+            left: 'center'
+        },
         xAxis: {
             type: 'category',
             axisLabel: { interval: 0, rotate: 30 }
@@ -123,11 +135,18 @@
         series: {
             type: 'bar',
             encode: { x: 'name', y: 'score' },
-            datasetIndex: 1
+            datasetIndex: 1,
+            itemStyle: {
+                normal: {
+                    color: function(params) {
+                        return params.data.color;
+                    }
+                }
+            }
         }
     };
 
-    option && barchart.setOption(option);
+    barchart.setOption(barchartOption);
 </script>
 
 </html>
