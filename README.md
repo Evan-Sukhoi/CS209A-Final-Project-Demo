@@ -1,5 +1,5 @@
 # 🫧CS209A-Final-Project-Demo
-![CourseInfo](https://img.shields.io/badge/sustech--cs209a-23fa%3Aproject--demo-brightgreen)![License](https://img.shields.io/github/license/hezean/chatting)
+![CourseInfo](https://img.shields.io/badge/sustech--cs209a-23fa%3Aproject--demo-brightgreen)[![License](https://img.shields.io/github/license/hezean/chatting)](https://github.com/Evan-Sukhoi/CS209A-Final-Project-Demo/blob/master/LICENSE)
 
 This is SUSTech CS209A 2023 Fall course final project demo for students, including a StackOverflow data analysis and visualization web page based on SpringBoot and HTML.
 
