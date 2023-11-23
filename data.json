@@ -1,0 +1,1376 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "rest",
+        "exception",
+        "controller-advice"
+      ],
+      "owner": {
+        "account_id": 2090997,
+        "reputation": 801,
+        "user_id": 7516740,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/156214966aff672577b506a4cefa12dd?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "elvis",
+        "link": "https://stackoverflow.com/users/7516740/elvis"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1700410494,
+      "creation_date": 1700401323,
+      "last_edit_date": 1700410494,
+      "question_id": 77510970,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510970/how-to-catch-notfoundexception-with-controlleradvice-in-spring-boot",
+      "title": "How to catch NotFoundException with ControllerAdvice in Spring Boot?"
+    },
+    {
+      "tags": [
+        "java",
+        "class",
+        "mergesort"
+      ],
+      "owner": {
+        "account_id": 18425830,
+        "reputation": 1,
+        "user_id": 22657374,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GghOGnscZMjAcybSo89WQjUMwrDU4hwT5hdYglvFQ=k-s256",
+        "display_name": "Kavija Karunarathna",
+        "link": "https://stackoverflow.com/users/22657374/kavija-karunarathna"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700410294,
+      "creation_date": 1700410294,
+      "question_id": 77511513,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511513/mergesort-does-not-modify-the-array-that-i-pass-into-the-method",
+      "title": "MergeSort does not modify the array that I pass into the method"
+    },
+    {
+      "tags": [
+        "java",
+        "office365",
+        "jakarta-mail",
+        "imap"
+      ],
+      "owner": {
+        "account_id": 4303446,
+        "reputation": 396,
+        "user_id": 3516549,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/100001150616435/picture?type=large",
+        "display_name": "luizfelipetx",
+        "link": "https://stackoverflow.com/users/3516549/luizfelipetx"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700409842,
+      "creation_date": 1700396266,
+      "last_edit_date": 1700409842,
+      "question_id": 77510725,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510725/connect-outlookmail-fail-a1-and-a3-errors-javamail-with-simple-login-and-pass-to",
+      "title": "Connect OutlookMail Fail A1 and A3 Errors JavaMail with simple login and pass to connect in Outlook365 Mail"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "fuzzy-search"
+      ],
+      "owner": {
+        "account_id": 26710514,
+        "reputation": 1,
+        "user_id": 20315978,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/77bca2ffa6945639b2f68acaa660e326?s=256&d=identicon&r=PG",
+        "display_name": "Lannest Caster",
+        "link": "https://stackoverflow.com/users/20315978/lannest-caster"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1700409815,
+      "creation_date": 1700409815,
+      "question_id": 77511488,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511488/is-there-a-java-library-for-doing-fuzzy-search-of-a-substring",
+      "title": "Is there a java library for doing fuzzy search of a substring"
+    },
+    {
+      "tags": [
+        "java",
+        "java-8",
+        "apache-kafka",
+        "java-12"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user11311618"
+      },
+      "is_answered": true,
+      "view_count": 2423,
+      "accepted_answer_id": 55538980,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1700409643,
+      "creation_date": 1554454653,
+      "last_edit_date": 1559161738,
+      "question_id": 55531708,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/55531708/kafka-unable-to-resolve-javax-xml-bind-classnotfoundexeption-for-java-12",
+      "title": "Kafka unable to resolve javax/xml/bind/* ClassNotFoundExeption for java 12?"
+    },
+    {
+      "tags": [
+        "java",
+        "performance",
+        "affinity",
+        "numa",
+        "numactl"
+      ],
+      "owner": {
+        "account_id": 5164133,
+        "reputation": 151,
+        "user_id": 4134776,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/100005964373715/picture?type=large",
+        "display_name": "Carlos S&#225;",
+        "link": "https://stackoverflow.com/users/4134776/carlos-s%c3%a1"
+      },
+      "is_answered": false,
+      "view_count": 396,
+      "answer_count": 0,
+      "score": 2,
+      "last_activity_date": 1700409580,
+      "creation_date": 1495189236,
+      "last_edit_date": 1700409580,
+      "question_id": 44067490,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/44067490/how-to-study-the-impact-of-numa-in-java-algorithms",
+      "title": "How to study the impact of NUMA in Java algorithms"
+    },
+    {
+      "tags": [
+        "java",
+        "swing",
+        "concurrency"
+      ],
+      "owner": {
+        "account_id": 18080104,
+        "reputation": 131,
+        "user_id": 14575766,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2dac05b973ddee574a074c14594d986c?s=256&d=identicon&r=PG",
+        "display_name": "Javi",
+        "link": "https://stackoverflow.com/users/14575766/javi"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "closed_date": 1700403319,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700409280,
+      "creation_date": 1700403267,
+      "question_id": 77511087,
+      "link": "https://stackoverflow.com/questions/77511087/nullpointerexception-on-timer",
+      "closed_reason": "Duplicate",
+      "title": "NullPointerException on timer"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "rest",
+        "spring-boot",
+        "http"
+      ],
+      "owner": {
+        "account_id": 6259816,
+        "reputation": 823,
+        "user_id": 4867303,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/6c409c3522b8e586f54ad6e2c9584f3c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "CeePlusPlus",
+        "link": "https://stackoverflow.com/users/4867303/ceeplusplus"
+      },
+      "is_answered": true,
+      "view_count": 1423,
+      "accepted_answer_id": 58121528,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1700409216,
+      "creation_date": 1568663720,
+      "last_edit_date": 1569517158,
+      "question_id": 57963597,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/57963597/making-a-multipart-put-request-via-spring-rest-to-call-a-api-with-formdata-repl",
+      "title": "Making a MultiPart Put request via Spring Rest to call a API with formData (Replace Apache MultipartEntityBuilder with REST)"
+    },
+    {
+      "tags": [
+        "java",
+        "linux",
+        "centos",
+        "cpu-cores"
+      ],
+      "owner": {
+        "account_id": 5321680,
+        "reputation": 26,
+        "user_id": 4244958,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-mPD2Eqv3-TQ/AAAAAAAAAAI/AAAAAAAAA0I/jaqXiWDg8Ss/photo.jpg?sz=256",
+        "display_name": "Vo Tan Phuc",
+        "link": "https://stackoverflow.com/users/4244958/vo-tan-phuc"
+      },
+      "is_answered": false,
+      "view_count": 461,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1700409154,
+      "creation_date": 1534925926,
+      "last_edit_date": 1700409154,
+      "question_id": 51962589,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/51962589/how-can-i-assign-process-for-1-cpu-core-and-lock-this-core-in-linux",
+      "title": "How can I assign process for 1 CPU core and lock this core in Linux?"
+    },
+    {
+      "tags": [
+        "java",
+        "geotools"
+      ],
+      "owner": {
+        "account_id": 17972905,
+        "reputation": 5020,
+        "user_id": 13061224,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/GyOMS.jpg?s=256&g=1",
+        "display_name": "siggemannen",
+        "link": "https://stackoverflow.com/users/13061224/siggemannen"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700408920,
+      "creation_date": 1700408920,
+      "question_id": 77511436,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511436/geotools-how-to-style-geometrycollection-geometries-correctly",
+      "title": "Geotools - how to style geometrycollection geometries correctly"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "multithreading",
+        "get"
+      ],
+      "owner": {
+        "account_id": 29928440,
+        "reputation": 1,
+        "user_id": 22935933,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocL42_C5DgeOGsdR_dxOaZ_49Kn3nqO23rv650i1_cuHKw=k-s256",
+        "display_name": "Ikun",
+        "link": "https://stackoverflow.com/users/22935933/ikun"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1700407978,
+      "creation_date": 1700407497,
+      "last_edit_date": 1700407978,
+      "question_id": 77511347,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511347/my-android-studio-new-threadnew-runnable-didnt-work",
+      "title": "My android studio new Thread(new Runnable ) didn&#39;t work"
+    },
+    {
+      "tags": [
+        "java",
+        "intellij-idea",
+        "microservices"
+      ],
+      "owner": {
+        "account_id": 29808133,
+        "reputation": 65,
+        "user_id": 22844207,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocI41dezx89iOSLije7de6g3p63BPFf7IfGvYDdTJSfV=k-s256",
+        "display_name": "user22844207",
+        "link": "https://stackoverflow.com/users/22844207/user22844207"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700407932,
+      "creation_date": 1700405559,
+      "last_edit_date": 1700407932,
+      "question_id": 77511226,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511226/how-to-create-the-root-project-correctly-in-intellij-idea-with-java",
+      "title": "How to create the ROOT project correctly in IntelliJ Idea with Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "jaxb",
+        "xjc",
+        "jakarta-migration"
+      ],
+      "owner": {
+        "account_id": 19225725,
+        "reputation": 11,
+        "user_id": 14048667,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-xlOWuJ-eabs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXDqA1cL2RSr3NRTocSTzihXYP6w/photo.jpg?sz=256",
+        "display_name": "Ismael",
+        "link": "https://stackoverflow.com/users/14048667/ismael"
+      },
+      "is_answered": false,
+      "view_count": 291,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1700407888,
+      "creation_date": 1691659484,
+      "last_edit_date": 1692705091,
+      "question_id": 76874356,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76874356/converting-xsd-xjb-to-java-classes-with-jaxb-3-0-and-jaxb2-maven-plugin-does-n",
+      "title": "Converting XSD / XJB to Java Classes with JAXB 3.0 and jaxb2-maven-plugin does not work for Annotations (-Xannotate xjc switch)"
+    },
+    {
+      "tags": [
+        "java",
+        "mysql",
+        "string",
+        "spring-data-jpa"
+      ],
+      "owner": {
+        "account_id": 24094543,
+        "reputation": 33,
+        "user_id": 18067284,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d63120e62ae32822fa543c98880ee519?s=256&d=identicon&r=PG",
+        "display_name": "user",
+        "link": "https://stackoverflow.com/users/18067284/user"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700407670,
+      "creation_date": 1700407670,
+      "question_id": 77511358,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511358/string-formatting-lost-after-retrieving-from-database",
+      "title": "String formatting lost after retrieving from database"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "log4j2"
+      ],
+      "owner": {
+        "account_id": 28371535,
+        "reputation": 3,
+        "user_id": 21700053,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxa2hQ0PDto2-KnzoXZCaIaveN-7lcUkxxnDygFGpA=k-s256",
+        "display_name": "Augusto Soria",
+        "link": "https://stackoverflow.com/users/21700053/augusto-soria"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700407442,
+      "creation_date": 1700407442,
+      "question_id": 77511344,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511344/log4j2-not-displaying-debug-level-logs",
+      "title": "Log4J2 not displaying debug level logs"
+    },
+    {
+      "tags": [
+        "java",
+        "android"
+      ],
+      "owner": {
+        "account_id": 21950303,
+        "reputation": 100,
+        "user_id": 16229577,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f3a184ad345f6ab6dca604048f80eed3?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Vasil3",
+        "link": "https://stackoverflow.com/users/16229577/vasil3"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700407108,
+      "creation_date": 1700393253,
+      "last_edit_date": 1700407108,
+      "question_id": 77510587,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510587/android-13-problems-writing-and-reading-files",
+      "title": "Android 13+ problems writing and reading files"
+    },
+    {
+      "tags": [
+        "java",
+        "databricks",
+        "integration",
+        "databricks-sql"
+      ],
+      "owner": {
+        "account_id": 1316659,
+        "reputation": 37,
+        "user_id": 7373817,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/aba4b407a16d8ec4556375db78a9de7e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Ramesh Bathini",
+        "link": "https://stackoverflow.com/users/7373817/ramesh-bathini"
+      },
+      "is_answered": true,
+      "view_count": 23,
+      "closed_date": 1699998117,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1700406906,
+      "creation_date": 1699644185,
+      "last_edit_date": 1700406906,
+      "question_id": 77462405,
+      "link": "https://stackoverflow.com/questions/77462405/what-is-the-best-way-to-consume-databricks-database-data-in-java-application",
+      "closed_reason": "Opinion-based",
+      "title": "What is the best way to consume Databricks database data in Java application?"
+    },
+    {
+      "tags": [
+        "java",
+        "compilation"
+      ],
+      "owner": {
+        "account_id": 5815079,
+        "reputation": 765,
+        "user_id": 7801965,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/qgCQ3.png?s=256&g=1",
+        "display_name": "Kartoos",
+        "link": "https://stackoverflow.com/users/7801965/kartoos"
+      },
+      "is_answered": false,
+      "view_count": 35,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1700406466,
+      "creation_date": 1700404216,
+      "last_edit_date": 1700406466,
+      "question_id": 77511147,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511147/how-is-java-being-compiled-on-the-browser-without-calling-server",
+      "title": "How is java being compiled on the browser without calling server?"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "trace",
+        "spring-cloud-sleuth",
+        "micrometer-tracing"
+      ],
+      "owner": {
+        "account_id": 14473469,
+        "reputation": 91,
+        "user_id": 10454701,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/PvG2T.jpg?s=256&g=1",
+        "display_name": "dargui",
+        "link": "https://stackoverflow.com/users/10454701/dargui"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1700406001,
+      "creation_date": 1700213471,
+      "question_id": 77500569,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77500569/tracing-in-rabbitlistener-observationenabled",
+      "title": "Tracing in RabbitListener - observationEnabled"
+    },
+    {
+      "tags": [
+        "java",
+        "user-interface",
+        "awt"
+      ],
+      "owner": {
+        "account_id": 9942939,
+        "reputation": 408,
+        "user_id": 7358869,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/85f34e511e25066142f9b550b3cd1767?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Shivam...",
+        "link": "https://stackoverflow.com/users/7358869/shivam"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700405958,
+      "creation_date": 1700405958,
+      "question_id": 77511252,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511252/awt-button-clicks-exceed-the-count-value-beyond-expected",
+      "title": "AWT button clicks exceed the count value beyond expected"
+    },
+    {
+      "tags": [
+        "java",
+        "jsp",
+        "servlets"
+      ],
+      "owner": {
+        "account_id": 29941567,
+        "reputation": 1,
+        "user_id": 22945936,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocKcfFnZYx8cMLOlnCcvSaNWwZsH-5rHZFq6sMYYRYoG=k-s256",
+        "display_name": "Ethan Gomes",
+        "link": "https://stackoverflow.com/users/22945936/ethan-gomes"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700405789,
+      "creation_date": 1700405658,
+      "last_edit_date": 1700405789,
+      "question_id": 77511231,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511231/how-do-you-link-java-files-with-jsp-and-servlets",
+      "title": "How do you link Java files with JSP and servlets?"
+    },
+    {
+      "tags": [
+        "java",
+        "stream",
+        "hashmap",
+        "time-complexity"
+      ],
+      "owner": {
+        "account_id": 4983029,
+        "reputation": 67,
+        "user_id": 4007419,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/96ecaa4238897cb37d28a0238b86facc?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Mausumi",
+        "link": "https://stackoverflow.com/users/4007419/mausumi"
+      },
+      "is_answered": true,
+      "view_count": 78,
+      "answer_count": 3,
+      "score": -2,
+      "last_activity_date": 1700405663,
+      "creation_date": 1700375572,
+      "last_edit_date": 1700382715,
+      "question_id": 77509859,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77509859/time-complexity-of-adding-elements-to-collection-vs-using-stream-in-java",
+      "title": "Time complexity of adding elements to collection vs using stream in java"
+    },
+    {
+      "tags": [
+        "java",
+        "jsp",
+        "servlets",
+        "import"
+      ],
+      "owner": {
+        "account_id": 25480408,
+        "reputation": 1,
+        "user_id": 19276873,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/41f3fcf2505764475cb72355a8d26385?s=256&d=identicon&r=PG",
+        "display_name": "guralover36",
+        "link": "https://stackoverflow.com/users/19276873/guralover36"
+      },
+      "is_answered": false,
+      "view_count": 59,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1700405631,
+      "creation_date": 1700304634,
+      "last_edit_date": 1700405631,
+      "question_id": 77506567,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77506567/cant-import-java-classes-into-jsp-file",
+      "title": "Can&#39;t import .java classes into .jsp file"
+    },
+    {
+      "tags": [
+        "java",
+        "binary-tree",
+        "preorder"
+      ],
+      "owner": {
+        "account_id": 4818688,
+        "reputation": 477,
+        "user_id": 3889963,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/9ce57607ccef58de10b044c364c7edcc?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "user3889963",
+        "link": "https://stackoverflow.com/users/3889963/user3889963"
+      },
+      "is_answered": true,
+      "view_count": 773,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1700405270,
+      "creation_date": 1437492423,
+      "last_edit_date": 1700405270,
+      "question_id": 31543361,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/31543361/threaded-tree-preorder-traversal-in-java",
+      "title": "Threaded tree preorder traversal in java"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "spring-kafka"
+      ],
+      "owner": {
+        "account_id": 5426010,
+        "reputation": 1064,
+        "user_id": 4318240,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/50883094f46475ea1f996b2ac0813e1a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "lights",
+        "link": "https://stackoverflow.com/users/4318240/lights"
+      },
+      "is_answered": true,
+      "view_count": 25579,
+      "accepted_answer_id": 51638268,
+      "answer_count": 2,
+      "score": 11,
+      "last_activity_date": 1700404857,
+      "creation_date": 1533137878,
+      "last_edit_date": 1700404857,
+      "question_id": 51637328,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/51637328/spring-boot-spring-kafka-bootstrap-servers-not-getting-picked-up-by-consumer-con",
+      "title": "Spring boot spring.kafka.bootstrap-servers not getting picked up by consumer config"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "apache-kafka",
+        "docker-compose"
+      ],
+      "owner": {
+        "account_id": 18992675,
+        "reputation": 1,
+        "user_id": 13861581,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/262cf9fbcdfdd4074cedb07112c385c4?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "ChristinaK",
+        "link": "https://stackoverflow.com/users/13861581/christinak"
+      },
+      "is_answered": false,
+      "view_count": 41,
+      "closed_date": 1700404565,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1700404586,
+      "creation_date": 1700271095,
+      "last_edit_date": 1700404586,
+      "question_id": 77505371,
+      "link": "https://stackoverflow.com/questions/77505371/spring-boot-apache-kafka-in-docker-connection-issues",
+      "closed_reason": "Duplicate",
+      "title": "Spring Boot Apache Kafka in Docker connection issues"
+    },
+    {
+      "tags": [
+        "java",
+        "javafx"
+      ],
+      "owner": {
+        "account_id": 29116069,
+        "reputation": 11,
+        "user_id": 22304749,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtfCTn9-aRdk8tdYDY_TpgHa4cRmyllHJmvgMZBZd07-s8o=k-s256",
+        "display_name": "Surat",
+        "link": "https://stackoverflow.com/users/22304749/surat"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1700404469,
+      "creation_date": 1700404469,
+      "question_id": 77511169,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511169/objects-not-appearing-in-scenebuilder-in-fxid-post-running",
+      "title": "Objects not appearing in SceneBuilder in fx:id post running"
+    },
+    {
+      "tags": [
+        "java",
+        "apache-kafka",
+        "spring-kafka",
+        "kafka-producer-api"
+      ],
+      "owner": {
+        "account_id": 3033089,
+        "reputation": 189,
+        "user_id": 2571718,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/15b06bf09688edec663323f5f7fb1db5?s=256&d=identicon&r=PG",
+        "display_name": "Fonexn",
+        "link": "https://stackoverflow.com/users/2571718/fonexn"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700404015,
+      "creation_date": 1700397481,
+      "last_edit_date": 1700404015,
+      "question_id": 77510784,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510784/how-work-maxage-in-spring-kafka-factory-producer",
+      "title": "How work maxAge in Spring Kafka Factory Producer?"
+    },
+    {
+      "tags": [
+        "java",
+        "windows",
+        "jpackage"
+      ],
+      "owner": {
+        "account_id": 1075966,
+        "reputation": 478,
+        "user_id": 1074117,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://www.gravatar.com/avatar/7b360d42b648f71e8821823e569bedf0?s=256&d=identicon&r=PG",
+        "display_name": "nyholku",
+        "link": "https://stackoverflow.com/users/1074117/nyholku"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1700403996,
+      "creation_date": 1700403996,
+      "question_id": 77511135,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511135/jpackaged-java-application-on-windows-does-not-find-classes-in-the-included-jar",
+      "title": "jpackage&#39;d Java application on Windows does not find classes in the included jar files"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading"
+      ],
+      "owner": {
+        "account_id": 19323531,
+        "reputation": 105,
+        "user_id": 14126714,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0e19749452f3e7f3513a5631a28f45cd?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "curious_coder",
+        "link": "https://stackoverflow.com/users/14126714/curious-coder"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "answer_count": 1,
+      "score": -2,
+      "last_activity_date": 1700403959,
+      "creation_date": 1700384429,
+      "question_id": 77510200,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510200/fetch-data-from-db-and-third-party-api",
+      "title": "Fetch data from db and third party api"
+    },
+    {
+      "tags": [
+        "java",
+        "reactive-programming"
+      ],
+      "owner": {
+        "account_id": 10907310,
+        "reputation": 2204,
+        "user_id": 8017666,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/060a3fb01bb1beff4162ee106c51fefd?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "SRJ",
+        "link": "https://stackoverflow.com/users/8017666/srj"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700403127,
+      "creation_date": 1700403127,
+      "question_id": 77511077,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511077/java-httpclient-sendasync-junit-test-with-custom-reactive-subscriber",
+      "title": "Java HttpClient sendAsync Junit Test with Custom Reactive Subscriber"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "swagger"
+      ],
+      "owner": {
+        "account_id": 29772902,
+        "reputation": 13,
+        "user_id": 22817655,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3a82813744e24b8a6b93522d96049970?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Kodigas",
+        "link": "https://stackoverflow.com/users/22817655/kodigas"
+      },
+      "is_answered": true,
+      "view_count": 26,
+      "accepted_answer_id": 77511068,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1700402992,
+      "creation_date": 1700396086,
+      "question_id": 77510720,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510720/how-do-i-enable-swagger-api-endpoints-for-a-boot-application",
+      "title": "How do I enable Swagger API endpoints for a Boot application?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-studio"
+      ],
+      "owner": {
+        "account_id": 29760610,
+        "reputation": 29,
+        "user_id": 22808304,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a4edce2f24f3c176bbff8dabc8a760bc?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "kimzero",
+        "link": "https://stackoverflow.com/users/22808304/kimzero"
+      },
+      "is_answered": false,
+      "view_count": 33,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1700402735,
+      "creation_date": 1700393228,
+      "last_edit_date": 1700394972,
+      "question_id": 77510583,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510583/android-studio-splash-error-its-frozen-on-the-intro-screen",
+      "title": "Android studio Splash Error (It&#39;s frozen on the intro screen)"
+    },
+    {
+      "tags": [
+        "java",
+        "selenium",
+        "casting",
+        "css-selectors",
+        "shadow-dom"
+      ],
+      "owner": {
+        "account_id": 23962875,
+        "reputation": 31,
+        "user_id": 17952725,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzEqW0BS7lXTZeFbwrOPBS4vOCSTRfERggHLcHB=k-s256",
+        "display_name": "Asha Rani",
+        "link": "https://stackoverflow.com/users/17952725/asha-rani"
+      },
+      "is_answered": false,
+      "view_count": 10233,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1700402695,
+      "creation_date": 1642404105,
+      "last_edit_date": 1642541458,
+      "question_id": 70737766,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/70737766/java-lang-classcastexception-cannot-be-cast-to-org-openqa-selenium-webelement-u",
+      "title": "java.lang.ClassCastException: cannot be cast to org.openqa.selenium.WebElement using executeScript() to return shadowRoot from shadowHost"
+    },
+    {
+      "tags": [
+        "java",
+        "android"
+      ],
+      "owner": {
+        "account_id": 29941210,
+        "reputation": 1,
+        "user_id": 22945681,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0124287a892c2e2ff3c21180d51ddd6d?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Yanivonix",
+        "link": "https://stackoverflow.com/users/22945681/yanivonix"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700402402,
+      "creation_date": 1700402402,
+      "question_id": 77511033,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511033/android-studio-draw-a-line-on-a-canvas-with-preview-without-having-all-the-fo",
+      "title": "Android studio - Draw a line on a canvas with preview, without having all the former lines drawn on the canvas?"
+    },
+    {
+      "tags": [
+        "java",
+        "kotlin",
+        "android-studio",
+        "mobile",
+        "android-inflate"
+      ],
+      "owner": {
+        "account_id": 29941159,
+        "reputation": 1,
+        "user_id": 22945647,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocJb-5uy4XxVwW5ij1Ga3iltrxymxEDxHwdt8tnBVqhl=k-s256",
+        "display_name": "Phyo Aung",
+        "link": "https://stackoverflow.com/users/22945647/phyo-aung"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700402232,
+      "creation_date": 1700402004,
+      "last_edit_date": 1700402232,
+      "question_id": 77511013,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77511013/inflate-and-menu-xml-dont-work-as-expected",
+      "title": "Inflate and menu.xml don&#39;t work as expected"
+    },
+    {
+      "tags": [
+        "java",
+        "list",
+        "collections"
+      ],
+      "owner": {
+        "account_id": 62111,
+        "reputation": 40155,
+        "user_id": 184730,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/8ec7cdaaf6fd5ee313cb6228f08cd67c?s=256&d=identicon&r=PG",
+        "display_name": "fastcodejava",
+        "link": "https://stackoverflow.com/users/184730/fastcodejava"
+      },
+      "is_answered": true,
+      "view_count": 195609,
+      "accepted_answer_id": 5968535,
+      "answer_count": 15,
+      "score": 73,
+      "last_activity_date": 1700402059,
+      "creation_date": 1299363444,
+      "last_edit_date": 1499525609,
+      "question_id": 5207162,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5207162/define-a-fixed-size-list-in-java",
+      "title": "Define a fixed-size list in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "xml",
+        "validation",
+        "xsd"
+      ],
+      "owner": {
+        "account_id": 1152835,
+        "reputation": 103,
+        "user_id": 16300149,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ca33267070096ca8a539ef71109c3bbf?s=256&d=identicon&r=PG",
+        "display_name": "User123",
+        "link": "https://stackoverflow.com/users/16300149/user123"
+      },
+      "is_answered": true,
+      "view_count": 33,
+      "accepted_answer_id": 77510983,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1700401504,
+      "creation_date": 1700398704,
+      "last_edit_date": 1700399420,
+      "question_id": 77510836,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510836/validate-xml-against-two-xsd-cant-resolve-the-name-elem-to-an-type-definit",
+      "title": "Validate XML against two XSD: Cant resolve the name &#39;Elem&#39; to a(n) &#39;type definition&#39; component"
+    },
+    {
+      "tags": [
+        "java",
+        "apache-tika",
+        "tika-server"
+      ],
+      "owner": {
+        "account_id": 13352626,
+        "reputation": 323,
+        "user_id": 9637371,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/lkTnP.jpg?s=256&g=1",
+        "display_name": "Bestows In Constructing",
+        "link": "https://stackoverflow.com/users/9637371/bestows-in-constructing"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700400952,
+      "creation_date": 1700400952,
+      "question_id": 77510949,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510949/is-it-possible-to-use-filesystemfetcher-or-s3fetcher-in-tika-server-in-docker",
+      "title": "Is it possible to use FileSystemFetcher or S3Fetcher in tika-server in docker?"
+    },
+    {
+      "tags": [
+        "java",
+        "linux",
+        "jvm",
+        "hotspot"
+      ],
+      "owner": {
+        "account_id": 12552238,
+        "reputation": 3115,
+        "user_id": 9133378,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/goYCP.jpg?s=256&g=1",
+        "display_name": "choxsword",
+        "link": "https://stackoverflow.com/users/9133378/choxsword"
+      },
+      "is_answered": false,
+      "view_count": 115,
+      "bounty_amount": 100,
+      "bounty_closes_date": 1700797962,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1700400224,
+      "creation_date": 1700018412,
+      "question_id": 77485058,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception",
+      "title": "will sending `kill -11` to java process raises a NullPointerException?"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "intellij-idea",
+        "spring-boot-devtools"
+      ],
+      "owner": {
+        "account_id": 112317,
+        "reputation": 93769,
+        "user_id": 296328,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.stack.imgur.com/DSpH6.jpg?s=256&g=1",
+        "display_name": "khmarbaise",
+        "link": "https://stackoverflow.com/users/296328/khmarbaise"
+      },
+      "is_answered": true,
+      "view_count": 29412,
+      "answer_count": 4,
+      "score": 6,
+      "last_activity_date": 1700399593,
+      "creation_date": 1593089406,
+      "question_id": 62575769,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62575769/java-lang-classcastexception-class-is-in-unnamed-module-of-loader-app-s",
+      "title": "java.lang.ClassCastException: class ... is in unnamed module of loader &#39;app&#39; - spring-boot-dev-tools"
+    },
+    {
+      "tags": [
+        "java",
+        "maven",
+        "code-generation",
+        "annotation-processing",
+        "cannot-find-symbol"
+      ],
+      "owner": {
+        "account_id": 10970706,
+        "reputation": 41,
+        "user_id": 8061089,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/PjANA.jpg?s=256&g=1",
+        "display_name": "Mustapha Mond",
+        "link": "https://stackoverflow.com/users/8061089/mustapha-mond"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700398968,
+      "creation_date": 1700398968,
+      "question_id": 77510844,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510844/cant-find-class-in-generated-sources-produced-by-custom-annotation-processor-wh",
+      "title": "Can&#39;t find class in generated sources produced by custom annotation processor when running java program"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot"
+      ],
+      "owner": {
+        "account_id": 26088922,
+        "reputation": 9,
+        "user_id": 19786091,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bc5d0e8673d9406cdca926e550cfa496?s=256&d=identicon&r=PG",
+        "display_name": "TheOneTrueFives",
+        "link": "https://stackoverflow.com/users/19786091/theonetruefives"
+      },
+      "is_answered": false,
+      "view_count": 42,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1700397018,
+      "creation_date": 1700352010,
+      "question_id": 77509130,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77509130/all-values-returned-from-configurationproperty-class-are-null",
+      "title": "All values returned from @ConfigurationProperty class are null"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "load-balancing",
+        "spring-cloud",
+        "spring-cloud-loadbalancer"
+      ],
+      "owner": {
+        "account_id": 18383045,
+        "reputation": 512,
+        "user_id": 13604662,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/xs5V1.jpg?s=256&g=1",
+        "display_name": "Soumalya Bhattacharya",
+        "link": "https://stackoverflow.com/users/13604662/soumalya-bhattacharya"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700396663,
+      "creation_date": 1700396663,
+      "question_id": 77510752,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510752/what-are-the-load-balancing-strategies-supported-by-spring-load-balancer",
+      "title": "What are the load balancing strategies supported by spring load balancer"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "quarkus",
+        "quarkus-panache"
+      ],
+      "owner": {
+        "account_id": 20043783,
+        "reputation": 45,
+        "user_id": 14693960,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/14f646f7d04259838c9662b5ff7a088e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "szg12345",
+        "link": "https://stackoverflow.com/users/14693960/szg12345"
+      },
+      "is_answered": false,
+      "view_count": 41,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1700396559,
+      "creation_date": 1699909074,
+      "question_id": 77476835,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77476835/quarkus-transaction-error-when-running-on-multiple-threads",
+      "title": "Quarkus Transaction error when running on multiple threads"
+    },
+    {
+      "tags": [
+        "java",
+        "generics"
+      ],
+      "owner": {
+        "account_id": 194307,
+        "reputation": 13346,
+        "user_id": 436559,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/8d6b535e4fadefca3e9cab9b6b1ee49b?s=256&d=identicon&r=PG",
+        "display_name": "fluter",
+        "link": "https://stackoverflow.com/users/436559/fluter"
+      },
+      "is_answered": true,
+      "view_count": 68,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1700396309,
+      "creation_date": 1700390006,
+      "question_id": 77510415,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510415/create-object-of-generic-type-t",
+      "title": "Create object of generic type T"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-studio"
+      ],
+      "owner": {
+        "account_id": 29940586,
+        "reputation": 1,
+        "user_id": 22945215,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocIJN9-6ditnnDYfjDN52lGHlfKhz1JlqvKq5bODgmO6=k-s256",
+        "display_name": "Nikita ",
+        "link": "https://stackoverflow.com/users/22945215/nikita"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700395936,
+      "creation_date": 1700395936,
+      "question_id": 77510715,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510715/can-you-explain-how-data-is-transferred-between-fragments",
+      "title": "Can you explain how data is transferred between fragments?"
+    },
+    {
+      "tags": [
+        "java",
+        "flutter",
+        "dart",
+        "integration",
+        "native-code"
+      ],
+      "owner": {
+        "account_id": 22008632,
+        "reputation": 1,
+        "user_id": 16279216,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/16e5f496e1426582d29145ef564866b6?s=256&d=identicon&r=PG",
+        "display_name": "HAMZA HAIMOUR",
+        "link": "https://stackoverflow.com/users/16279216/hamza-haimour"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1700395804,
+      "creation_date": 1700395552,
+      "last_edit_date": 1700395804,
+      "question_id": 77510699,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/77510699/how-to-integrate-atid907-rfid-device-with-my-flutter-app-is-there-a-plugin-for",
+      "title": "How to Integrate ATID907 rfid device with my flutter app (is there a plugin for it in flutter)?"
+    },
+    {
+      "tags": [
+        "java",
+        "gradle",
+        "jar",
+        "build.gradle",
+        "executable-jar"
+      ],
+      "owner": {
+        "account_id": 1028416,
+        "reputation": 5032,
+        "user_id": 1037206,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/945586a549e2187aabde7354cc254d79?s=256&d=identicon&r=PG",
+        "display_name": "Hannes",
+        "link": "https://stackoverflow.com/users/1037206/hannes"
+      },
+      "is_answered": true,
+      "view_count": 311179,
+      "accepted_answer_id": 21721305,
+      "answer_count": 12,
+      "score": 193,
+      "last_activity_date": 1700395787,
+      "creation_date": 1392189344,
+      "last_edit_date": 1644698113,
+      "question_id": 21721119,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/21721119/creating-runnable-jar-with-gradle",
+      "title": "Creating runnable JAR with Gradle"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "parcel"
+      ],
+      "owner": {
+        "account_id": 1993130,
+        "reputation": 71,
+        "user_id": 1786682,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c1f10beee2b143e1d82c2263b2826091?s=256&d=identicon&r=PG",
+        "display_name": "Michael Schrempp",
+        "link": "https://stackoverflow.com/users/1786682/michael-schrempp"
+      },
+      "is_answered": true,
+      "view_count": 5108,
+      "answer_count": 4,
+      "score": 7,
+      "last_activity_date": 1700395189,
+      "creation_date": 1439392478,
+      "question_id": 31969224,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/31969224/android-parcel-obtain-returns-null",
+      "title": "Android Parcel.obtain() returns null?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9995
+}
