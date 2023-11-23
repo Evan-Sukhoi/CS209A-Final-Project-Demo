@@ -11,6 +11,8 @@ This is just a sample demo with a small amount of data and trivial visualization
 - The demo is a SpringBoot project with Maven as the package manager, using SpringBoot version 3.1.5, and the default JDK version is 20. The thymeleaf template engine ([see the documentation for more details](https://www.thymeleaf.org/)) is imported through Maven for page rendering. 
 - The frontend and backend of this demo are not separated (you can also create a separate front-end and back-end  project), and the frontend uses HTML, CSS, and Javascript (you can use  Vue, React, or any other front-end frameworks). The echarts framework for wordcloud and barchart is imported via jsdelivr CDN ([see the documentation of ECharts](https://echarts.apache.org/handbook/en/get-started/)).
 
+🔔***Kindly note that this demo uses static data stored in tagCount_demo.js directly within the front-end, which will result in 20 points deductions during evaluation. Hence, it is recommended that the data analysis process be conducted by the server in response to requests from the front-end.***
+
 ## Quick Start
 
 #### 1. Create your own repository
