@@ -7,12 +7,13 @@ This is SUSTech CS209A 2023 Fall course final project demo for students, includi
 
 This is just a sample demo with a small amount of data and trivial visualization, and you need to **collect and analyse data** according to the document and **design a more beautiful view** by yourself. This demo is to help you to understand the main structure of the code and provide quick start, and you can also redesign it without using this demo.
 
+🔔***Kindly note that this demo uses static data stored in tagCount_demo.js directly within the front-end, which will result in 20 points deductions during evaluation. Hence, it is recommended that the data analysis process be conducted by the server in response to requests from the front-end.***
+
 - The data in this demo is from 50 Java threads in StackOverflow, which are the top 50 ones with the most activity collected on Nov. 19, 2023. 
 - The demo is a SpringBoot project with Maven as the package manager, using SpringBoot version 3.1.5, and the default JDK version is 20. The thymeleaf template engine ([see the documentation for more details](https://www.thymeleaf.org/)) is imported through Maven for page rendering. 
 - The frontend and backend of this demo are not separated (you can also create a separate front-end and back-end  project), and the frontend uses HTML, CSS, and Javascript (you can use  Vue, React, or any other front-end frameworks). The echarts framework for wordcloud and barchart is imported via jsdelivr CDN ([see the documentation of ECharts](https://echarts.apache.org/handbook/en/get-started/)).
-- The `data.json` file is an original json file returned from the Stack Exchange API, for reference only. You can specify the returned content by modifying the request url according to [API document](https://api.stackexchange.com/docs). You are highly encouraged to explore the `try it` tool embedded within this document before start.
-
-🔔***Kindly note that this demo uses static data stored in tagCount_demo.js directly within the front-end, which will result in 20 points deductions during evaluation. Hence, it is recommended that the data analysis process be conducted by the server in response to requests from the front-end.***
+- The `data.json` file is an original json file returned from the Stack Exchange API, for reference only. You can specify the returned content by modifying the request url according to [API document](https://api.stackexchange.com/docs). You are highly encouraged to explore the `try it` tool (as shown below) embedded within this document before start.
+  ![](https://cdn.jsdelivr.net/gh/Evan-Sukhoi/ImageHost@main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-12-12%20145546.png)
 
 ## Quick Start
 
